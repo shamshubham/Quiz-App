@@ -64,3 +64,9 @@ For questions or feedback, please reach out via the contact information provided
 ---
 
 Feel free to adjust this README file to better fit your project's specific details and requirements.
+
+## Screenshot
+
+Here is a screenshot of the application:
+
+![Screenshot of Quiz-App](https://github.com/shamshubham/Quiz-App/blob/main/screenShots/Capture.JPG)
