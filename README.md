@@ -67,6 +67,20 @@ Feel free to adjust this README file to better fit your project's specific detai
 
 ## Screenshot
 
-Here is a screenshot of the application:
+Here are some screenshots of the application:
 
-![Screenshot of Quiz-App](https://github.com/shamshubham/Quiz-App/blob/main/screenShots/Capture.JPG)
+### Main Interface
+
+![Main Interface](https://github.com/shamshubham/Quiz-App/blob/main/screenShots/Capture.JPG)
+
+### Quiz Start Screen
+
+![Quiz Start Screen](https://github.com/shamshubham/Quiz-App/blob/main/screenShots/Capture1.JPG)
+
+### Question Screen
+
+![Question Screen](https://github.com/shamshubham/Quiz-App/blob/main/screenShots/Capture2.JPG)
+
+### Results Screen
+
+![Results Screen](https://github.com/shamshubham/Quiz-App/blob/main/screenShots/Capture3.JPG)
